@@ -1,0 +1,239 @@
+canonical_identifier: bkk:krp/KR3eh055/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3eh055/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 腳氣鉤要
+  identifiers:
+    krp: KR3eh055
+  tags:
+    kr-categories: KR3eh
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eh055.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3eh055_000-jc.yaml, hash: 'sha256:2f251b77d68fddbe743f56c12e7643eab73fcd6003138f500786bcac543e3a20'}
+  - {seq: 1, filename: KR3eh055_001-jc.yaml, hash: 'sha256:0efad608b90dafed4aea4d2972f582603be3e5b8043e239379482625d0c9b0db'}
+  - {seq: 3, filename: KR3eh055_003-jc.yaml, hash: 'sha256:773e04af5435943c393d7fc06f40866adf0309d3f7d139bcdeb11656d8f33eff'}
+  - {seq: 0, filename: KR3eh055_000-jc.yaml, hash: 'sha256:3792e8966779805aeeb5f872ea49aa1f46b90f5cacfdd267d769ef6190cfdb12'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eh055_000-jc.markers.yaml, hash: 'sha256:86027dd1ae6daa28afb3c86accbf22acc978612273fff1d23f58205f2c11ecbc'}
+  - {seq: 1, role: markers, filename: assets/KR3eh055_001-jc.markers.yaml, hash: 'sha256:da94f3ed559ef3832f98c29f191a325c0eab6f4eb5acc14a785a6a89c1a5f5c4'}
+  - {seq: 3, role: markers, filename: assets/KR3eh055_003-jc.markers.yaml, hash: 'sha256:106549c08cc2f4ef687983d1c6fe6aca556f95fa8241543f4fc0d4d4359a5e42'}
+  - {seq: 0, role: markers, filename: assets/KR3eh055_000-jc.markers.yaml, hash: 'sha256:86027dd1ae6daa28afb3c86accbf22acc978612273fff1d23f58205f2c11ecbc'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eh055_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 458
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh055_jc_000-d3.h1s1
+    span:
+    - body
+    - 0
+    - 861
+  label: 凡例
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3eh055_jc_001-d4.h1s1
+    span:
+    - body
+    - 0
+    - 13777
+  label: 卷上
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3eh055_jc_001-d4d2
+    span:
+    - body
+    - 2
+    - 1110
+  label: 總論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eh055_jc_001-d4d3
+    span:
+    - body
+    - 1110
+    - 1550
+  label: 原因
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eh055_jc_001-d4d4
+    span:
+    - body
+    - 1550
+    - 1739
+  label: 腫滿
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eh055_jc_001-d4d5
+    span:
+    - body
+    - 1739
+    - 1972
+  label: 麻痹
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eh055_jc_001-d4d6
+    span:
+    - body
+    - 1972
+    - 2564
+  label: 候脈
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eh055_jc_001-d4d7
+    span:
+    - body
+    - 2564
+    - 2811
+  label: 候膻中
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eh055_jc_001-d4d8
+    span:
+    - body
+    - 2811
+    - 3091
+  label: 診法
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eh055_jc_001-d4d9
+    span:
+    - body
+    - 3091
+    - 3420
+  label: 治法
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eh055_jc_001-d4d10
+    span:
+    - body
+    - 3420
+    - 3792
+  label: 補瀉
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eh055_jc_001-d4d11
+    span:
+    - body
+    - 3792
+    - 4080
+  label: 食戒
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eh055_jc_001-d4d12
+    span:
+    - body
+    - 4080
+    - 5329
+  label: 外因
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eh055_jc_001-d4d13
+    span:
+    - body
+    - 5329
+    - 9664
+  label: 內因
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eh055_jc_001-d4d14
+    span:
+    - body
+    - 9664
+    - 11415
+  label: 並病
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eh055_jc_001-d4d15
+    span:
+    - body
+    - 11415
+    - 11758
+  label: 針灸
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eh055_jc_001-d4d16
+    span:
+    - body
+    - 11758
+    - 13777
+  label: 備案
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh055_jc_003-d5.h1s1
+    span:
+    - body
+    - 0
+    - 9271
+  label: 卷下
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3eh055_jc_003-d5d2
+    span:
+    - body
+    - 2
+    - 9271
+  label: 藥能
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh055_jc_000-d6.h1s1
+    span:
+    - front
+    - 0
+    - 285
+  label: 後序
+  type: section
+  level: 1
+hash: sha256:51b529568e6d5b6ba968822080f76afa9c6e3426979897db5d511b0e58979352
