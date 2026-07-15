@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3eh055/v1
 canonical_location: https://kanripo.org/bkk/KR3eh055/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 腳氣鉤要
   identifiers:
@@ -16,14 +16,14 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3eh055_000.yaml, hash: 'sha256:3792e8966779805aeeb5f872ea49aa1f46b90f5cacfdd267d769ef6190cfdb12'}
-  - {seq: 1, filename: KR3eh055_001.yaml, hash: 'sha256:0efad608b90dafed4aea4d2972f582603be3e5b8043e239379482625d0c9b0db'}
-  - {seq: 3, filename: KR3eh055_003.yaml, hash: 'sha256:773e04af5435943c393d7fc06f40866adf0309d3f7d139bcdeb11656d8f33eff'}
-  - {seq: 0, filename: KR3eh055_000.yaml, hash: 'sha256:3792e8966779805aeeb5f872ea49aa1f46b90f5cacfdd267d769ef6190cfdb12'}
+  - {seq: 0, filename: KR3eh055_000.yaml, hash: 'sha256:49dc2fbaebd3b9b808c2fe0767d384fab2bcbd984cf7ef3950f843b35ff3f853'}
+  - {seq: 1, filename: KR3eh055_001.yaml, hash: 'sha256:31fbe50a2936912a1651b3e3778982d8fa63179040964b5311ac31fc7324d54d'}
+  - {seq: 3, filename: KR3eh055_003.yaml, hash: 'sha256:7b1fa1891f8dab1e4075a36a961e44a3915b65bfcc9716d4a36cf1cceb009839'}
+  - {seq: 0, filename: KR3eh055_000.yaml, hash: 'sha256:49dc2fbaebd3b9b808c2fe0767d384fab2bcbd984cf7ef3950f843b35ff3f853'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eh055_000.markers.yaml, hash: 'sha256:a68a1d856b8d9a192959aa2190ec8ecc75b6e5066a3c2dcc5e25d1d85bf1665d'}
-  - {seq: 1, role: markers, filename: assets/KR3eh055_001.markers.yaml, hash: 'sha256:cde1ed43ddb7eb0f0607358f95c7d6b5eb720dd44a60223a8c80edccdbf501ab'}
-  - {seq: 3, role: markers, filename: assets/KR3eh055_003.markers.yaml, hash: 'sha256:a922cd4953cf168c90298d8c4d4ea0950fe6f68c4f80da36b3c5646bb7303651'}
+  - {seq: 0, role: markers, filename: assets/KR3eh055_000.markers.yaml, hash: 'sha256:41e7f668a3c5552692ffd8951ae8d5ccf6d43ed4d29982bef9814b07a1de0f35'}
+  - {seq: 1, role: markers, filename: assets/KR3eh055_001.markers.yaml, hash: 'sha256:83de13b0398cc9bbf9b0687f39bbc2325416c6f82b13d8c6c31f4be4c9274448'}
+  - {seq: 3, role: markers, filename: assets/KR3eh055_003.markers.yaml, hash: 'sha256:0f5db9fca31a4ebeae094b074e5bd29d4f567d6096df1236ba63e179298ec483'}
 table_of_contents:
 - ref:
     seq: 0
@@ -235,4 +235,7 @@ table_of_contents:
   label: 後序
   type: section
   level: 1
-hash: sha256:b183e7b08677b665c1dbba2b2114c08f4f2b82c4d4163ffc71e935fa596647ac
+hash: sha256:e7e98f5b2d6429d527bf75d669668b49f55b15b2e35a412a411f135f2e8ff6ee
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
